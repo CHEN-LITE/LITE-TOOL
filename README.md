@@ -18,7 +18,6 @@ git clone https://github.com/CHEN-LITE/LITE-TOOL.git
 5. Open LITE_OBB directory and run setup.
 ```
 cd LITE-TOOL
-chmod 775 setup
 bash setup
 ```
 6. Done.
